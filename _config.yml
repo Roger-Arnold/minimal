@@ -1,6 +1,13 @@
 title: Minimal theme
 logo: /assets/img/hans-jurgen-mager-qQWV91TTBrE-unsplash.jpg
-description: Minimal is a theme for GitHub Pages.
+description:
+  <p align="center">
+  <a href="https://github.com/Roger-Arnold/fraud_detection.git">GitHub</a>
+  
+  <br>   
+  I'm an emerging data enthusiast
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
